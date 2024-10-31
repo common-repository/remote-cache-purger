@@ -1,0 +1,13 @@
+= The future ... =
+
+* automatically collect remote servers/env vars
+* multiple domains (sites with multiple domains)
+* cache purge key
+* dynamic response header for cleared items count
+* purge on save (option)
+* treat purge url as post (use relative urls)
+* vuejs?
+* update documentation
+* add screenshots
+* response count header
+* update all cache purge
